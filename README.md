@@ -11,18 +11,20 @@ Create a Django-admin Interface.
 Create a static folder and inert HTML code.
 
 ## STEP 3
-Create a simple table using <table> tag in html.
+Create a simple table using `<table>` tag in html.
 
 ## STEP 4
-Add header row using <th> tag.
+Add header row using `<th>` tag.
 
 ## STEP 5
-Add your timetable using <td> tag.
+Add your timetable using `<td>` tag.
 
 ## STEP 6
 Execute the program using runserver command.
 
 # PROGRAM
+
+```
     <html>
         <head>
     
@@ -109,8 +111,10 @@ Execute the program using runserver command.
 
     </body>
 </html>
+```
+# OUTPUT
 
-# OUTPUT![image](https://github.com/user-attachments/assets/251ff08b-66e0-49b7-b232-91d042d5b7d5)
+![image](https://github.com/user-attachments/assets/251ff08b-66e0-49b7-b232-91d042d5b7d5)
 
 # RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
